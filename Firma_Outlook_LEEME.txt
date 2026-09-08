@@ -1,0 +1,27 @@
+FIRMA PROFESIONAL DE JAVIER MENA - OUTLOOK
+============================================
+
+Cuenta profesional: jmena.developer@gmail.com
+
+NUEVO OUTLOOK PARA WINDOWS
+1. Abre Firma_Outlook_Javier_Mena.htm en el navegador.
+2. Selecciona la firma completa y cópiala.
+3. En Outlook entra en Configuración > Cuentas > Firmas.
+4. Selecciona jmena.developer@gmail.com, crea una firma nueva y pégala.
+5. Elígela para mensajes nuevos y para respuestas o reenvíos.
+
+OUTLOOK CLÁSICO PARA WINDOWS
+1. Abre Firma_Outlook_Javier_Mena.htm en el navegador.
+2. Selecciona la firma completa y cópiala.
+3. En Outlook entra en Archivo > Opciones > Correo > Firmas.
+4. Crea una firma nueva, pégala y asígnala a jmena.developer@gmail.com.
+5. Elígela para mensajes nuevos y para respuestas o reenvíos.
+
+OUTLOOK MÓVIL
+El editor móvil utiliza una firma de texto simplificada. Copia el contenido de
+Firma_Outlook_Javier_Mena.txt desde Configuración > Firma.
+
+NOTAS
+- El logotipo se carga desde la web profesional de Javier Mena.
+- El teléfono, el correo, la web, GitHub y LinkedIn son enlaces pulsables.
+- No cambies el tamaño del logotipo desde el editor para evitar deformaciones.

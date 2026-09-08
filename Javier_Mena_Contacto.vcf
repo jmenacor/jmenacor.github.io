@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Mena Corrochano;Javier;;;
+FN:Javier Mena Corrochano
+TITLE:Técnico de soporte IT | Desarrollador web
+TEL;TYPE=CELL,VOICE:+34671054057
+EMAIL;TYPE=INTERNET,WORK:jmena.developer@gmail.com
+URL;TYPE=WORK:https://javiermena.jmenacor.chatgpt.site
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/jmenacor
+URL;TYPE=GitHub:https://github.com/jmenacor
+ADR;TYPE=WORK:;;;San Juan de Aznalfarache;Sevilla;;España
+END:VCARD

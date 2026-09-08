@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="JM Human Terminal">
+  <defs>
+    <linearGradient id="favicon-gradient" x1="6" y1="8" x2="58" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38D9FF"/>
+      <stop offset=".52" stop-color="#4F7CFF"/>
+      <stop offset="1" stop-color="#9B6CFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#080A1D"/>
+  <g fill="none" stroke="url(#favicon-gradient)" stroke-width="6">
+    <path d="M11 48h8c7 0 10-4 10-11V14h7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M34 50V15l11 13 12-13v35" stroke-linecap="square" stroke-linejoin="miter"/>
+  </g>
+  <circle cx="7" cy="48" r="3" fill="#38D9FF"/>
+  <g fill="none" stroke="url(#favicon-gradient)" stroke-width="2.5" stroke-linecap="square">
+    <path d="m42 36 5 4-5 4"/>
+    <path d="M49 44h5"/>
+  </g>
+</svg>

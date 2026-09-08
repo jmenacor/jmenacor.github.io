@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 178 96" role="img" aria-labelledby="title desc">
+  <title id="title">Monograma JM Human Terminal</title>
+  <desc id="desc">Iniciales JM con un símbolo de terminal</desc>
+  <defs>
+    <linearGradient id="jm-symbol-gradient" x1="10" y1="14" x2="164" y2="84" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38D9FF"/>
+      <stop offset=".52" stop-color="#4F7CFF"/>
+      <stop offset="1" stop-color="#9B6CFF"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#jm-symbol-gradient)" stroke-width="14">
+    <path d="M28 77h23c14 0 22-8 22-22V18h21" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M89 78V18l33 30 34-30v60" stroke-linecap="square" stroke-linejoin="miter"/>
+  </g>
+  <circle cx="18" cy="77" r="7" fill="#38D9FF"/>
+  <g fill="none" stroke="url(#jm-symbol-gradient)" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="m111 57 12 9-12 9"/>
+    <path d="M130 75h15"/>
+  </g>
+</svg>
